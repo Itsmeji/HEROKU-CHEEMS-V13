@@ -16,8 +16,8 @@ global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
-global.botname = 'Cheems Bot MD V13' //ur bot name
-global.ownernumber = '6289688206739' //ur owner number
+global.botname = '𓆩❦𝕾𝕮𝕻ꕥ𓆪『🪶𝕭Ω𝕿🪽』' //ur bot name
+global.ownernumber = '22896870256' //ur owner number
 global.ownername = '🦄드림 가이 Xeon' //ur owner name
 global.websitex = "https://youtu.be/N3kyujoG3vk"
 global.wagc = "https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20"
@@ -26,9 +26,9 @@ global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD13' //script link
 global.packname = "Sticker By"
 global.author = "🦄드림 가이 Xeon\n\n+916909137213"
-global.creator = "6289688206739@s.whatsapp.net"
+global.creator = "22896870256@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["6289688206739"] // Premium User
+global.premium = ["22896870256"] // Premium User
 global.hituet = 0
 
 //bot sett
@@ -36,11 +36,11 @@ global.typemenu = 'v9' // menu type 'v1' => 'v12'
 global.typereply = 'v4' // reply type 'v1' => 'v4'
 global.autoblocknumber = '92' //set autoblock country code
 global.antiforeignnumber = '91' //set anti foreign number country code
-global.welcome = false //welcome/left in groups
-global.anticall = false //bot blocks user when called
-global.autoswview = false //auto status/story view
-global.adminevent = false //show promote/demote message
-global.groupevent = false //show update messages in group chat
+global.welcome = true //welcome/left in groups
+global.anticall = true //bot blocks user when called
+global.autoswview = true //auto status/story view
+global.adminevent = true //show promote/demote message
+global.groupevent = true //show update messages in group chat
 //msg
 global.mess = {
 	limit: 'Your limit is up!',
